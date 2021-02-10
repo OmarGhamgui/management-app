@@ -1,0 +1,22 @@
+.corps {
+  display: flex;
+  flex-direction: column;
+  background-color: #bac1b8;
+  font-size: 16px;
+  padding-top: 30px;
+  min-height: 400px;
+  width: 100%;
+  color: rgb(35, 51, 105);
+}
+input {
+  height: 30px;
+}
+h6 {
+  color: rgb(17, 29, 66);
+
+  width: 200px;
+}
+
+button {
+  border-radius: 3px;
+}

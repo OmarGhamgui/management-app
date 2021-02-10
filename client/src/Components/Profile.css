@@ -1,0 +1,24 @@
+
+h4 {
+  font-weight: 900;
+}
+.content {
+  background-color: #88bdbc;
+  padding: 30px 50px;
+}
+@media screen and (max-width: 676px) {
+  .content {
+    padding: 70px 50px;
+  }
+}
+
+.cards-container {
+  margin: 30px 10px;
+}
+
+.card-content{
+    background-color:#387180;
+    margin:40px 10px;
+    cursor: pointer;;
+
+}

@@ -1,0 +1,56 @@
+.sondageTableContent {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 24px;
+  width: 120px;
+  padding: 7px;
+  color: #5e6a7a;
+  border: 1px solid rgb(51, 44, 44);
+
+}
+.sondageSuppBtn{
+  cursor: pointer;
+}
+.sondageRow {
+  width: 100%;
+  padding: 7px;
+
+  border: 1px solid rgb(51, 44, 44);
+
+}
+table{
+  width:80%;
+  margin:0 auto;
+  border: 1px solid rgb(51, 44, 44);
+}
+.sondageCol {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 24px;
+  width: 180px;
+  padding: 7px;
+
+  color: #404449;
+}
+.clientlist{
+  min-height: 500px;
+  padding-top:20px;
+  width:100%;
+  background-color:rgb(177, 175, 201)
+}
+.client-liste{
+  width:100%;
+  display:flex;
+  margin:auto;
+  justify-content:center
+}
+
+h3{
+  margin:20px auto;
+  display:flex;
+  width:300px
+}
